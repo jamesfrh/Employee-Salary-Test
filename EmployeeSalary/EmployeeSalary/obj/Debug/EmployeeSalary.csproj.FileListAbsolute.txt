@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe.config
+C:\Users\USER\Desktop\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.exe
+C:\Users\USER\Desktop\EmployeeSalary\EmployeeSalary\bin\Debug\EmployeeSalary.pdb
+C:\Users\USER\Desktop\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.exe
+C:\Users\USER\Desktop\EmployeeSalary\EmployeeSalary\obj\Debug\EmployeeSalary.pdb
